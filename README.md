@@ -2,7 +2,7 @@
 
 Quickly summarize the content and get the information you need in **real-time** from private large unstructured documents in your [Dropbox](https://dropbox.com/). The same tool can be used with [OneDrive](https://onedrive.live.com/login/).
 
-As you can see the LLM App enables AI-powered search from multiple unstructured documents like tax information from different countries, and indexes input data in real-time just after you upload files to the cloud storage.
+This Project is Basically like Jarvis Desktop as it can receive input in speech and gives output as speech. The user speaks his question and is recorded and converted to text and sent to openai. The response is converted to audio in a file which is then played.
 
 ## Demo
 
